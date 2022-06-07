@@ -1,5 +1,5 @@
 ### Olá! Bem vindo ao Meu Perfil👋
-#### Cursando Engenharia da Computação 1/10🎓
+#### Cursando Engenharia da Computação 2/10🎓
 
 <div>
   <a href="https://github.com/juniorfr">
